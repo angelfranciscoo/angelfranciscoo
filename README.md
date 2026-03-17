@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Computer Science @ San Diego State University<br>
+  Computer Science + Math @ San Diego State University<br>
   President & Founder of ColorStack @ SDSU
 </p>
 
