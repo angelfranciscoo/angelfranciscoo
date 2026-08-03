@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Computer Science + Math @ San Diego State University<br>
+  Computer Science + Mathematics @ San Diego State University<br>
   President & Founder of ColorStack @ SDSU
 </p>
 
@@ -47,7 +47,7 @@
 <p align="center">
   ⛳️ Golf<br>
   🏂 Snowboarding<br>
-  🎮 Minecraft
+  ♘ Chess
 </p>
 
 ---
